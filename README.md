@@ -32,6 +32,7 @@ You can not apply for membership. Start by sending in pull-requests, work on out
 ### Alumni
 
 ##add
+##コンフリクト
 
 * Márk Sági-Kazár - Developer
 * Frank de Jonge - Developer ([http://frenky.net/](http://frenky.net/))
