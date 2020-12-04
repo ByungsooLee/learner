@@ -31,6 +31,8 @@ You can not apply for membership. Start by sending in pull-requests, work on out
 
 ### Alumni
 
+##add
+
 * Márk Sági-Kazár - Developer
 * Frank de Jonge - Developer ([http://frenky.net/](http://frenky.net/))
 * Jelmer Schreuder - Developer ([http://jelmerschreuder.nl/](http://jelmerschreuder.nl/))
